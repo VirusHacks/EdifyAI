@@ -1,2 +1,3 @@
 Set up PostgreSQL database with Drizzle ORM and migration scripts
 Set up PostgreSQL database with Drizzle ORM and migration scripts
+Integrate Kinde authentication with role-based access control
