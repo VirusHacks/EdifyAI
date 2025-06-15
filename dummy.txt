@@ -26,3 +26,4 @@ Implement NLP-based content filtering and quality assessment
 Build comprehensive analytics dashboard with learning insights
 Create dynamic certificate generator with blockchain verification
 Implement gamification system with points and achievement badges
+Build video conferencing system with screen sharing capabilities
