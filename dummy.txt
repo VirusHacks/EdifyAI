@@ -4,3 +4,4 @@ Integrate Kinde authentication with role-based access control
 Build responsive landing page with hero section and feature showcase
 Develop reusable navigation component with mobile hamburger menu
 Create protected course dashboard with sidebar navigation layout
+Build course content API with YouTube Data API integration
