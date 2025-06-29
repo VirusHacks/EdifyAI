@@ -13,3 +13,4 @@ Create comprehensive user profile with preferences and achievements
 Set up Socket.io server for real-time messaging and notifications
 Build threaded forum system with upvoting and moderation features
 Develop WebRTC foundation for AR classroom video streaming
+Create interview simulation platform with question randomization
