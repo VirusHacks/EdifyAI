@@ -16,3 +16,4 @@ Develop WebRTC foundation for AR classroom video streaming
 Create interview simulation platform with question randomization
 Integrate computer vision API for facial expression and tone analysis
 Build ATS-compliant resume generator with industry templates
+Implement personalized learning path algorithm based on user goals
