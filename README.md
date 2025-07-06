@@ -1,4 +1,4 @@
-# Gen-ed AI
+# Edify AI
 
 _Revolutionizing Education with AI-Powered Courses, Immersive AR Classrooms, and Powerful Career Tools_
 <!-- 3D Bot Animation -->
@@ -9,7 +9,7 @@ _Revolutionizing Education with AI-Powered Courses, Immersive AR Classrooms, and
 
 
 ## ✨ Overview
-**Gen-ed AI** was born from a stark reality: **5 out of 6 students** are frustrated with traditional, outdated university education. With static curricula and limited access to enriching events, hackathons, and networking, today's learners need a new approach. Edify AI delivers a **personalized, dynamic learning platform** that adapts to industry demands and connects a global community of forward-thinking students.
+**Edify AI** was born from a stark reality: **5 out of 6 students** are frustrated with traditional, outdated university education. With static curricula and limited access to enriching events, hackathons, and networking, today's learners need a new approach. Edify AI delivers a **personalized, dynamic learning platform** that adapts to industry demands and connects a global community of forward-thinking students.
 
 ---
 
