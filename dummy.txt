@@ -19,3 +19,4 @@ Build ATS-compliant resume generator with industry templates
 Implement personalized learning path algorithm based on user goals
 Create event management system with calendar integration
 Build internship matching engine with skill-based recommendations
+Develop peer networking features with connection requests
