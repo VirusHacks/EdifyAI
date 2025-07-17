@@ -143,3 +143,5 @@ npm run dev
 Open your browser and navigate to http://localhost:3000 to explore Edify AI locally.
 
 Feel free to contribute, open issues, or submit pull requests to help us refine and expand Edify AI. Together, we can shape the future of education!
+
+
