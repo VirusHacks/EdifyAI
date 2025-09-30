@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+.vercel/
+.turbo/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Coverage / caches
+coverage/
+.cache/
+
+# Progressive exposure (removed gradually by commit.js)
+package.json
+tsconfig.json
+next.config.mjs
+tailwind.config.ts
+postcss.config.mjs
+drizzle.config.ts
+components.json
+configs/
+lib/
+app/
+components/
+db/
+drizzle/
+hooks/
+types/
+context/
+constant/
+public/
+features/
+versions/
+README.md
+commit.js
