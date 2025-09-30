@@ -50,7 +50,6 @@ db/
 drizzle/
 hooks/
 types/
-context/
 constant/
 public/
 features/
