@@ -5,3 +5,4 @@
 // feat: implement course publishing functionality - Commit 18
 // feat: implement course creation form with validation - Commit 12
 // fix: resolve authentication edge cases and token refresh - Commit 50
+// feat: add real-time notifications for forum activities - Commit 40
