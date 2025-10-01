@@ -48,6 +48,5 @@ components/
 db/
 drizzle/
 hooks/
-types/
 public/
 versions/
