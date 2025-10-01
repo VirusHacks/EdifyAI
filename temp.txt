@@ -7,3 +7,4 @@
 // fix: resolve authentication edge cases and token refresh - Commit 50
 // feat: add real-time notifications for forum activities - Commit 40
 // feat: create resume builder form components - Commit 29
+// feat: create certificate generation system - Commit 44
