@@ -12,3 +12,4 @@
 // feat: add database schema for user management - Commit 6
 // feat: add forum database schema for course discussions - Commit 37
 // feat: add YouTube video integration for courses - Commit 16
+// feat: create admin dashboard for content management - Commit 47
