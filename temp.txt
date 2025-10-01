@@ -9,3 +9,4 @@
 // feat: create resume builder form components - Commit 29
 // feat: create certificate generation system - Commit 44
 // feat: implement resume sharing and management - Commit 33
+// feat: add database schema for user management - Commit 6

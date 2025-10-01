@@ -43,7 +43,6 @@ postcss.config.mjs
 drizzle.config.ts
 components.json
 configs/
-lib/
 app/
 components/
 db/
