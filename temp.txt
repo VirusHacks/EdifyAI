@@ -4,3 +4,4 @@
 // feat: create mock interview dashboard layout - Commit 20
 // feat: implement course publishing functionality - Commit 18
 // feat: implement course creation form with validation - Commit 12
+// fix: resolve authentication edge cases and token refresh - Commit 50
