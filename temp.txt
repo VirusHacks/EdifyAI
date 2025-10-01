@@ -18,3 +18,4 @@
 // feat: implement dynamic resume sections (experience, education) - Commit 30
 // feat: create course display and management system - Commit 14
 // feat: add internship scraping functionality - Commit 34
+// feat: add resume preview and PDF export functionality - Commit 31
