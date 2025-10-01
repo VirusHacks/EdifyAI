@@ -49,6 +49,5 @@ db/
 drizzle/
 hooks/
 types/
-constant/
 public/
 versions/
