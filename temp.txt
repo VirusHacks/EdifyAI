@@ -2,3 +2,4 @@
 // feat: create basic project structure and routing layout - Commit 4
 // feat: implement virtual classroom functionality - Commit 42
 // feat: create mock interview dashboard layout - Commit 20
+// feat: implement course publishing functionality - Commit 18
