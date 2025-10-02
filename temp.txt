@@ -23,3 +23,4 @@
 // feat: implement AI-powered interview question generation - Commit 21
 // feat: implement interview history and tracking - Commit 27
 // feat: add resume builder database schema - Commit 28
+// feat: implement forum replies and nested discussions - Commit 39
