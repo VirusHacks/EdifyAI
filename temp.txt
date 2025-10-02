@@ -34,3 +34,4 @@
 // feat: create internship listing and filtering system - Commit 35
 // feat: create course dashboard layout and components - Commit 11
 // feat: implement answer recording and evaluation - Commit 24
+// feat: create course card components with CRUD operations - Commit 17
