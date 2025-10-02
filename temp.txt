@@ -24,3 +24,4 @@
 // feat: implement interview history and tracking - Commit 27
 // feat: add resume builder database schema - Commit 28
 // feat: implement forum replies and nested discussions - Commit 39
+// docs: add comprehensive README with features and setup instructions - Commit 51
