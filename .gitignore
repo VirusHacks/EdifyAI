@@ -41,4 +41,3 @@ configs/
 app/
 db/
 drizzle/
-hooks/
