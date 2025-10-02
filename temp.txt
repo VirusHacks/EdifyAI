@@ -21,3 +21,4 @@
 // feat: add resume preview and PDF export functionality - Commit 31
 // feat: implement internship search and bookmark features - Commit 36
 // feat: implement AI-powered interview question generation - Commit 21
+// feat: implement interview history and tracking - Commit 27
