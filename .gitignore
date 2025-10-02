@@ -35,11 +35,6 @@ coverage/
 .cache/
 
 # Progressive exposure (removed gradually by commit.js)
-package.json
-tsconfig.json
-next.config.mjs
-tailwind.config.ts
-postcss.config.mjs
 drizzle.config.ts
 components.json
 configs/
