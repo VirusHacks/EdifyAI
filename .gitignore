@@ -44,7 +44,6 @@ drizzle.config.ts
 components.json
 configs/
 app/
-components/
 db/
 drizzle/
 hooks/
