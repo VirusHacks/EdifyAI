@@ -36,3 +36,4 @@
 // feat: implement answer recording and evaluation - Commit 24
 // feat: create course card components with CRUD operations - Commit 17
 // feat: add SEO optimization and metadata - Commit 49
+// feat: add Kinde authentication configuration - Commit 3
