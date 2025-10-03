@@ -37,3 +37,4 @@
 // feat: create course card components with CRUD operations - Commit 17
 // feat: add SEO optimization and metadata - Commit 49
 // feat: add Kinde authentication configuration - Commit 3
+// feat: add AI-powered course content generation - Commit 13
