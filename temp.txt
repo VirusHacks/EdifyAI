@@ -46,3 +46,4 @@
 // feat: implement chapter and lesson structure - Commit 15
 // feat: create landing page layout and hero section - Commit 7
 // feat: set up Google AI integration for course generation - Commit 10
+// feat: set up Drizzle ORM with PostgreSQL connection - Commit 2
