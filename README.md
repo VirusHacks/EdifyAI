@@ -148,14 +148,14 @@ Good design here isn’t decoration—it’s less friction and more learning.
 ## Quick Start ⚡
 
 1. Clone the repo
-   ```bash
-   git clone https://github.com/VirusHacks/EdifyAI
-  cd EdifyAI/
-   ```
-2. Install dependencies
 ```bash
-npm install
+  git clone https://github.com/VirusHacks/EdifyAI
+  cd EdifyAI/
 ```
+2. Install dependencies
+  ```bash
+  npm install
+  ```
 3. Run the app
 ```bash
 npm run dev
