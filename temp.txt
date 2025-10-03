@@ -49,3 +49,4 @@
 // feat: set up Drizzle ORM with PostgreSQL connection - Commit 2
 // feat: implement responsive design improvements - Commit 48
 // feat: create forum topic creation and management - Commit 38
+// feat: implement user authentication flow with Kinde - Commit 5

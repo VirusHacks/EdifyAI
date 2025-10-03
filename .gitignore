@@ -35,4 +35,3 @@ coverage/
 .cache/
 
 # Progressive exposure (removed gradually by commit.js)
-configs/
