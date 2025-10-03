@@ -39,3 +39,4 @@
 // feat: add Kinde authentication configuration - Commit 3
 // feat: add AI-powered course content generation - Commit 13
 // feat: add webcam recording functionality for interviews - Commit 22
+// feat: create meeting integration with Stream SDK - Commit 41
