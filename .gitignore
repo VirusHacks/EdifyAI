@@ -37,5 +37,3 @@ coverage/
 # Progressive exposure (removed gradually by commit.js)
 drizzle.config.ts
 configs/
-db/
-drizzle/
